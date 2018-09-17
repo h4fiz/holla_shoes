@@ -1,0 +1,7 @@
+color 
+
+#04A4EB deep sky blue
+#F1D10D gold
+#F5F9FB lavender
+#5DC3F0 cornflower blue
+#2DB2EB turquoise

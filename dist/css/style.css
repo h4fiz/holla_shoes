@@ -167,9 +167,9 @@ color: #fff;
 }
 
 .link:active, .link:focus {
-	background: #EDFAFD;
+	background: #3ddad7;
 	text-decoration:none;
-	color:#3ddad7 !important;
+	color:#EDFAFD !important;
 }
 
 /* Navigation
